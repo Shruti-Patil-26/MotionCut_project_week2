@@ -89,7 +89,7 @@ public class LinkShortener {
 					System.out.println("Thank you....");
 					break;
 
-			default:
+			default:System.out.println("Please enter correct choice");
 				break;
 			}
 		}
